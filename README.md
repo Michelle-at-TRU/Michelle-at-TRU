@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mike-at-TRU
 - 👀 I’m interested in Computer Programing
-- 🌱 I’m currently learning Java Foundations @ TRU
+- 🌱 I’m currently learning front end web development @ TRU
 
 
 <!---
